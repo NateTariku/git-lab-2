@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 /*
  *        File: git-lab-program.cc
@@ -19,3 +20,5 @@ int main(int argc, char const *argv[]) {
     cout<< "Hello Git!!" <<endl;
     return 0;
 }// main
+=======
+>>>>>>> 21e0110c0a9c325d4b82e247cea9905c69d29a1d
